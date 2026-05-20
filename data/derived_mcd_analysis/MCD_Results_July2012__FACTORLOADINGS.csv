@@ -1,0 +1,29 @@
+FACTOR LOADINGS,,,,,
+Variable,Factor1,Factor2,Factor3,Factor4,Uniqueness
+ent_len,,,0.7003,,0.4566
+ptagefwy,,0.3644,0.7867,,0.2311
+alpha,-0.7712,0.4434,,,0.1301
+branchness,0.6453,,,0.6823,0.0929
+completeness,,,,0.9469,0.0994
+circuity,0.8516,,,,0.2365
+eta,,-0.9057,,,0.175
+theta,,,0.8444,,0.2263
+stdens_km2,-0.4143,0.8089,,,0.1699
+,,,,,
+Factor 1 - Mainly made of circuity,,,,,
+Factor 2 - Mainly made of eta and streetdens,,,,,
+"Factor 3 - Mainly made of  theta, entropy and percentage freeways ",,,,,
+Factor 4 - Mainly made of completeness,,,,,
+,,,,,
+PREDICTED FACTORS,,,,,
+Scoring coefficients (method = regression; based on varimax rotated factors),,,,,
+Variable,Factor1,Factor2,Factor3,Factor4,
+ent_len,0.03363,-0.08876,0.38151,0.00818,
+ptagefwy,0.159,0.26496,0.44416,0.00013,
+alpha,-0.35068,0.08179,-0.00521,-0.06019,
+branchness,0.29061,0.12724,0.0182,0.3942,
+completeness,-0.1765,0.02753,0.07315,0.70608,
+circuity,0.57218,0.17251,0.02246,-0.26634,
+eta,-0.19953,-0.56551,0.00023,-0.04388,
+theta,-0.1145,-0.12576,0.45932,0.094,
+stdens_km2,-0.06269,0.4101,0.0163,0.05793,

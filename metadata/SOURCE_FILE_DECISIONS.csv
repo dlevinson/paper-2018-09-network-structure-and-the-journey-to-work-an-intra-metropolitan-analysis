@@ -1,0 +1,8 @@
+path,role,decision,reason
+paper/NetworkStructureAndTheJourneyToWork-AnIntrametropolitanAnalysis-Final.pdf,final_published_paper,keep,Published paper retained.
+data/derived_mcd_analysis/MCDAnalysis_Charts.xlsx,derived_mcd_dataset_and_analysis_workbook,keep,"MCD-level StataData sheet and chart/regression source workbook; includes public/derived municipal variables, no personal records."
+data/derived_mcd_analysis/MCD_Results_July2012.xlsx,derived_regression_results_workbook,keep,"Regression, factor loading, and correlation results workbook."
+data/derived_mcd_analysis/*.csv,modernized_sheet_exports,keep,CSV exports of workbook sheets for non-Excel users.
+UMN DRUM SOUND archive,public_code_pointer,cite_pointer_only,Paper footnote cites Xie/Levinson open-source software for tree/circuit classification at hdl.handle.net/11299/181333; no need to duplicate the public archive here.
+MetroGIS/Census TIGER/Census 2010/accessibility source data,public_or_institutional_source_inputs,cite_pointer_or_paper_only,Source inputs are public/institutional sources described in the paper; staged workbooks capture the paper-specific derived MCD analysis.
+"drafts, response letters, LaTeX build files, generated figures",non_archival,exclude,Not part of the paper/data/code archive boundary.

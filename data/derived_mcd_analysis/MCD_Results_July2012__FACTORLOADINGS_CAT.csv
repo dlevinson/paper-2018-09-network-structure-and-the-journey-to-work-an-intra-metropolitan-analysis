@@ -1,0 +1,41 @@
+FACTOR LOADINGS,,,,,,FACTOR LOADINGS,,,,
+Variable,HIERARCHY,Uniqueness,,,,Variable,HIERARCHY,TOPOLOGY A,TOPOLOGY B,SCALE
+ent_len,0.807,0.3488,,,,ent_len,0.807,,,
+ptagefwy,0.807,0.3488,,,,ptagefwy,0.807,,,
+HIERARCHY - MADE OF ENTROPY AND PERCENTAGE FREEWAYS,,,,,,alpha,,-0.8425,-0.3283,
+,,,,,,branchness,,0.6208,0.7095,
+Variable,TOPOLOGY A,TOPOLOGY B,Uniqueness,,,completeness,,,0.934,
+alpha,-0.8425,-0.3283,0.1825,,,circuity,,0.8667,,
+branchness,0.6208,0.7095,0.1112,,,eta,,,,0.893
+completeness,,0.934,0.1242,,,theta,,,,0.371
+circuity,0.8667,,0.2099,,,stdens_km2,,,,-0.8694
+"TOPOLOGY A - mainly made of circuity, alpha",,,,,,HIERARCHY - MADE OF ENTROPY AND PERCENTAGE FREEWAYS,,,,
+TOPOLOGY B - mainly made of completeness,,,,,,"TOPOLOGY A - mainly made of circuity, alpha",,,,
+,,,,,,TOPOLOGY B - mainly made of completeness,,,,
+Variable,SCALE,Uniqueness,,,,SCALE - made up of eta and street density,,,,
+eta,0.893,0.2026,,,,,,,,
+theta,0.371,0.8623,,,,,,,,
+stdens_km2,-0.8694,0.2442,,,,PREDICTED FACTOR,,,,
+SCALE - made up of eta and street density,,,,,,Variable,HIERARCHY,TOPOLOGY A,TOPOLOGY B,SCALE
+,,,,,,ent_len,0.61958,,,
+PREDICTED FACTOR,,,,,,ptagefwy,0.61958,,,
+    -------------+----------,,,,,,alpha,,-0.4355,-0.0751,
+ent_len,|,0.61958,,,,branchness,,0.23172,0.39121,
+ptagefwy,|,0.61958,,,,completeness,,-0.21282,0.68216,
+    ------------------------,,,,,,circuity,,0.55013,-0.30718,
+,,,,,,eta,,,,0.52811
+-------------,--,---------,----------,,,theta,,,,0.21943
+Variable,|,Factor1,Factor2,,,stdens_km2,,,,-0.51414
+-------------,+-,---------,----------,,,,,,,
+alpha,|,-0.4355,-0.0751,,,,,,,
+branchness,|,0.23172,0.39121,,,,,,,
+completeness,|,-0.21282,0.68216,,,,,,,
+circuity,|,0.55013,-0.30718,,,,,,,
+-------------,--,---------,----------,,,,,,,
+,,,,,,,,,,
+        Variable |  Factor1 ,,,,,,,,,,
+    -------------+----------,,,,,,,,,,
+eta,|,0.52811,,,,,,,,
+theta,|,0.21943,,,,,,,,
+stdens_km2,|,-0.51414,,,,,,,,
+    ------------------------,,,,,,,,,,
