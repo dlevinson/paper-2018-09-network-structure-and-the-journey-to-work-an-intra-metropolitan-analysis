@@ -1,6 +1,6 @@
 # License Status: Network Structure And The Journey To Work: An Intra-Metropolitan Analysis
 
-Generated: 2026-05-20 13:10:44 AEST
+Generated: 2026-05-20 13:31:26 AEST
 
 Recorded license/access note from the verified audit row: Set repository license for author-created derived workbooks/metadata at upload; SOUND is already licensed at UMN DRUM; do not relicense the published Elsevier article PDF.
 
