@@ -1,5 +1,9 @@
 # Network Structure and the Journey to Work: An Intra-Metropolitan Analysis
 
+## Contribution
+
+This paper measures how street-network structure varies within a metropolitan area and connects that variation to commuting outcomes. Minor Civil Division evidence from Minneapolis–Saint Paul shows that better-connected local networks are associated with shorter average journeys to work, even after accounting for accessibility and socioeconomic conditions.
+
 Paper ID: paper-2018-09
 
 This is a **public derived-data package**. The paper uses public/institutional source data for Twin Cities MCDs, Census TIGER/Line street networks, 2010 Census travel/socioeconomic variables, and accessibility measures, plus the public UMN DRUM SOUND code for tree/circuit classification. The paper-specific local materials that belong here are the derived MCD analysis workbooks and their CSV exports.
