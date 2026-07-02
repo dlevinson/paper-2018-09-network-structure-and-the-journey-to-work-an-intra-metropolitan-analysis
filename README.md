@@ -17,12 +17,21 @@ This is a **public derived-data package**. The paper uses public/institutional s
 - `metadata/WORKBOOK_SHEETS.csv` - workbook sheet inventory.
 - `metadata/SOURCE_FILE_DECISIONS.csv` - archive-boundary decisions.
 - `metadata/PACKAGE_FILE_MANIFEST.csv` - generated file listing.
+- `LICENSE` - operative repository license boundary for author-created package materials.
 
 ## External public code/source pointers
 
 The tree/circuit classification code is already public as SOUND at UMN DRUM: https://hdl.handle.net/11299/181333. Source datasets are described in the paper and should be cited rather than rehosted wholesale.
 
-Last reviewed: 2026-05-17 22:59:20 Australia/Sydney.
+## License and provenance boundary
+
+The root `LICENSE` applies CC BY 4.0 only to rights-cleared author-created repository documentation, package metadata, source-decision notes, data dictionaries, manifests, and derived MCD analysis workbook/CSV materials to the extent controlled by the paper authors or repository maintainers.
+
+The publication PDF retains its publisher, repository, or manuscript terms. MetroGIS, US Census TIGER/Line, ACS/Census, TAZ accessibility inputs, municipal-boundary files, road-network source files, the SOUND public code archive, vendor/runtime/file-format structures, and other externally controlled materials are not relicensed.
+
+No software license is asserted because no executable software, scripts, notebooks, Stata do-files, SOUND source code, GIS processing scripts, or paper-specific runtime code are staged.
+
+Last reviewed: 2026-07-02 12:02:00 Australia/Sydney.
 
 <!-- package-hardening-status:start -->
 ## Package Hardening Status

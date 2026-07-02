@@ -1,6 +1,6 @@
 # Package Status: Network Structure And The Journey To Work: An Intra-Metropolitan Analysis
 
-Generated: 2026-05-21 20:19:00 AEST
+Generated: 2026-07-02 12:02:00 AEST
 
 ## Audit State
 
@@ -15,7 +15,7 @@ Generated: 2026-05-21 20:19:00 AEST
 
 ## Package Checks
 
-- Files in manifest: 17
+- Files in manifest: 18
 - Paper reference files: 2
 - Code candidates: 0
 - Data candidates: 9
@@ -26,4 +26,6 @@ Generated: 2026-05-21 20:19:00 AEST
 
 - Use `PACKAGE_MANIFEST.csv` as the upload checklist.
 - Treat files under `paper/` as local reference copies unless rights review explicitly clears them.
-- Confirm finality and license before repository creation.
+- The root `LICENSE` applies CC BY 4.0 only to rights-cleared author-created repository documentation, package metadata, source-decision notes, data dictionaries, manifests, and derived MCD analysis workbook/CSV materials to the extent controlled by the paper authors or repository maintainers.
+- Do not relicense the publication PDF, MetroGIS, US Census TIGER/Line, ACS/Census, TAZ accessibility inputs, municipal-boundary files, road-network source files, SOUND public code archive, public-source/institutional data, vendor/runtime/file-format structures, or other externally controlled materials.
+- No software license is asserted because no executable software, scripts, notebooks, Stata do-files, SOUND source code, GIS processing scripts, or paper-specific runtime code are staged.
