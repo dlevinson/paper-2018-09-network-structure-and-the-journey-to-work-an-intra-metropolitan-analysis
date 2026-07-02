@@ -1,13 +1,16 @@
 # License Status: Network Structure And The Journey To Work: An Intra-Metropolitan Analysis
 
-Generated: 2026-05-21 20:19:00 AEST
+Generated: 2026-07-02 12:02:00 AEST
 
-Recorded license/access note from the verified audit row: Set repository license for author-created derived workbooks/metadata at upload; SOUND is already licensed at UMN DRUM; do not relicense the published Elsevier article PDF.
+Root license file: `LICENSE`
 
-Before public GitHub upload, add an explicit license for author-created code/data or mark the package as citation/provenance-only. Do not license third-party raw data or publisher PDFs.
+The root license applies CC BY 4.0 only to rights-cleared author-created repository documentation, package metadata, source-decision notes, data dictionaries, manifests, and derived MCD analysis workbook/CSV materials to the extent controlled by the paper authors or repository maintainers.
+
+No software license is asserted because no executable software, scripts, notebooks, model source code, Stata do-files, SOUND source code, GIS processing scripts, or paper-specific runtime code are staged.
 
 ## Practical Rule
 
-- Author-created code can receive an explicit software license only after finality/provenance is confirmed.
-- Author-created data/derived tables can receive an explicit data/documentation license only after source rights are clear.
-- Third-party raw data and publisher PDFs are not relicensed here.
+- The publication PDF retains its publisher, repository, or manuscript terms.
+- MetroGIS, US Census TIGER/Line, ACS/Census, TAZ accessibility inputs, municipal-boundary files, road-network source files, public-source or institutional data, and other upstream/source materials retain their original terms.
+- SOUND remains a public code pointer at UMN DRUM and is not relicensed by this repository.
+- Vendor/runtime/file-format structures and application metadata are not relicensed.

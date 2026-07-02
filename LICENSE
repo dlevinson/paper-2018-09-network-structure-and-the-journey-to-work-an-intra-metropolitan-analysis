@@ -1,0 +1,51 @@
+Repository License And Provenance Boundary
+
+Copyright (c) 2018-2026 Pavithra Parthasarathi, David M. Levinson, and
+repository contributors
+
+This repository is a mixed research package. The license below applies only
+to materials that the paper authors or repository maintainers have rights to
+license, and it does not relicense publication PDFs, public-source datasets,
+public code archives, vendor file-format structures, or third-party
+materials.
+
+## Creative Commons Attribution 4.0 International
+
+Author-created repository documentation, package metadata, source-decision
+notes, data dictionaries, manifests, and rights-cleared derived package
+metadata are licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0):
+
+https://creativecommons.org/licenses/by/4.0/
+
+This license also covers author-created derived MCD analysis workbooks,
+workbook-sheet CSV exports, regression-result tables, factor-loading tables,
+correlation tables, chart-source tables, and accessibility/network-measure
+analysis tables in `data/derived_mcd_analysis/` only to the extent they
+consist of author-created selection, cleaning, integration, tabulation,
+formulas, or analysis controlled by the paper authors or repository
+maintainers.
+
+## Materials Not Relicensed
+
+This repository license does not apply to:
+
+- The publication PDF under `paper/`, which retains its publisher,
+  repository, or manuscript terms.
+- MetroGIS, US Census TIGER/Line, ACS/Census, TAZ accessibility inputs,
+  municipal-boundary files, road-network source files, and other
+  public-source or institutional source data.
+- The SOUND tree/circuit classification software and related UMN DRUM archive
+  at https://hdl.handle.net/11299/181333, which retain their own archive
+  terms and are cited here rather than duplicated.
+- ArcGIS, Stata, Microsoft Excel, LibreOffice, OpenXML, CSV, or other
+  vendor/runtime/file-format structures and application metadata.
+- Drafts, review letters, submission files, generated figure files, cited
+  references, and other third-party or externally controlled materials.
+
+## Software Boundary
+
+No executable software, scripts, notebooks, model source code, Stata do-files,
+SOUND source code, GIS processing scripts, or paper-specific runtime code are
+staged in this repository. This root license therefore grants no separate
+software license.
